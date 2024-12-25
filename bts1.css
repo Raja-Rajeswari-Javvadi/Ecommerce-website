@@ -1,0 +1,72 @@
+body{
+    background-image: url("data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBxIQEBAPEhAVEBUVDw8PDxUPEBUVDw8PFRUWFhUVFRUYHSggGBolHRUVITEhJSkrLi4uFx8zODMtNygtLisBCgoKDQ0NDg0NDysZFRk3LSstKystKysrKys3NysrKysrKy0rKysrKysrKysrKysrKysrKysrKysrKysrKysrK//AABEIALcBEwMBIgACEQEDEQH/xAAaAAEBAQEBAQEAAAAAAAAAAAAAAQIDBAcF/8QAIBABAQEBAQABBAMAAAAAAAAAAAEREgIDEyFhcTFBUf/EABUBAQEAAAAAAAAAAAAAAAAAAAAB/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8A+q8lg0DMiY2qjnyY3qgxIvLcAY4OHRQc+Dh0AYnmrjSUDk5NLQYsRulBmKUBViaA1BnV0FBLRAQAIqALIi6CyAUBUAcdXUXRQ1NXQTTpLUB0lNYAdJV1zlXQb1LU1NBvTWNTQa1ZWOjoGl1i01BoTRRaMNSgqsrAagmmgLGdNBqmogjRKgDQzqguqyA4aaiCtSomqBUIA1oiwGlZ1LQb01jU0GrSVEgNalqANLEgDQiyALIWoC6IQFgACoAogCkRRFAAwFB5glBQ0xLcBpGb6TQb06YaBTCNAgVYCYRU0CKmqClTVBqRrlzka0GuTlnb/oDfJjO0BrkvlldBMFlQDATAVdSRYIalaKKyNYA82J0xfR0DQmgKJigsWMtAsXWQGigBoAC6gCrrK6C6amgNGsxcBZV1kBrS0gBK0zFoKrOnQjWDMrWgBpKCiAPArOgrUVjWpQaVnTQaXWNWUG9W1mRdBdNS0BdNEoLppPK4BYEUEIoBiyIsoLhIKCwsWQBDFQExcFoJBQEBQQAH56p5jVgC6w1IC6qF/YFaiZ+WvMBRcOQMXEw2g1FkY02g6YjOgNDIDWjOmg0RNXQdI1HLs6B11K59NaC6ams6DpKaxp0DemsdJaDep0xAG+hkB5sZ9Vq1m37AixNNBqRcZlNBpqViNA1panlQWUtNAWVNXAC000A1dTV8gqfddNAImkoN4MdLoNGsaSg1p0zoDVqahoNSpppoBqaA1omgPJWvJGuQT1GbGrTzQSQsXQFi1PNaqiwsSNUGY0YWgQIIEXE1AawZKDVRFwFpoAIq6CBqWgsGQGtS0xbANNMANUUGRcAebFxWs0GJNWeMXGrFGcMXzVoMRthrUFNQlBrWdPSSA1pqYmAqs41ACAC6qaaCjOqC01AFtJUXQJRFlA0LTQIqdGgommiKGgrhq305draDfa3252p69KNz2X25SLiDpPZK5StyqOunTlpqDrpa5z2vYN9JfTN9MX2Dubjh0T0Dv1DY59Gg3fR9Rm+megdZ8n4We3Gel6B2/lLWPjv9tUF0tRNBrTWNXQXV1nTRF1pmJ0DWms9J0DrqMdgPGSgKurKCidHQAkpPaANT0uggnS9ACyoALPR2AJfa9IASr0AGrAA1ufIAL3rN+QAT6p3VATpNAQnpdUBO2ugBntQB/9k=");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.nav-logo{
+    height: 50px;
+}
+.item-nav{
+    color: black;
+    word-spacing: 40px;
+}
+.item-nav:hover{
+    background-color: aliceblue;
+}
+.anc{
+    margin-left: 600px;
+    
+    
+}
+.nav-name{
+    color: black;
+    font-size: 30px;
+    color: pink;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.divide{
+    border-radius: 50%;
+}
+.cou-img{
+    height: 600px;
+    width: 100%;
+}
+.divides{
+    height: 250px;
+    width: 200px;
+    border-radius: 50%;
+}
+.top-nav{
+    background-color: black;
+}
+.pink-but{
+    background-color: palevioletred;
+    height: 40px;
+    border-color: palevioletred;
+    border-radius: 50%;
+}
+.fp{
+    background-color: gainsboro;
+}
+.agr{
+    height: 285px;
+}
+.footer{
+    height: 400px;
+    background-color: black;
+}
+hr{
+    color: pink;
+}
+.footer p{
+    font-weight: 500;
+    color: white;
+}
+.fa-facebook {
+    background: #3B5998;
+    color: white;
+  }
+  .logo{
+    height: 50px;
+    width: 50px;
+  }
